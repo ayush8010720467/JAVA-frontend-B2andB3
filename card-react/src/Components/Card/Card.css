@@ -1,0 +1,29 @@
+.restaurant_card {
+  width: 300px;
+  margin: 30px;
+}
+.restaurant_card:hover {
+  border-color: #d3d5df;
+  box-shadow: 0 4px 7px 0 rgb(218 220 230);
+}
+.restaurant_image {
+  padding: 25px 25px 15px 25px;
+}
+.restaurant_image {
+}
+.restaurant_desc {
+  padding: 0 25px 10px 25px;
+}
+.restaurant_name {
+  font-size: 17px;
+  font-weight: 500;
+  word-break: break-word;
+}
+.restaurant_subHeading {
+  color: #686b78;
+  font-size: 13px;
+  margin-top: 4px;
+}
+h3 {
+  margin: 5px 0;
+}
