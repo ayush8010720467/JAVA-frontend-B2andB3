@@ -1,5 +1,7 @@
 import "./App.css";
+import Banner from "./Components/Banner/Banner";
 import Card from "./Components/Card/Card";
+import MainHeader from "./Components/MainHeader";
 
 function App() {
   var data = [
@@ -132,6 +134,8 @@ function App() {
   ];
   return (
     <>
+      <MainHeader></MainHeader>
+      <Banner type={2}></Banner>
       <div className="container">
         {data.map((elem, index) => (
           <Card

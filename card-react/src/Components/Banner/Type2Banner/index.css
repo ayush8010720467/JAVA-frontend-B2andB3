@@ -1,0 +1,11 @@
+.type2Banner{
+    color: white;
+   
+    padding: 17.5px;
+    
+}
+.type2Banner_card{
+     height: 90%;
+     max-height: 315px;
+     margin-right: 30px;
+}

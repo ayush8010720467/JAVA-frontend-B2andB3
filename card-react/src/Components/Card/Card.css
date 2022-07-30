@@ -1,6 +1,5 @@
 .restaurant_card {
   width: 300px;
-  margin: 30px;
 }
 .restaurant_card:hover {
   border-color: #d3d5df;
