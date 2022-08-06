@@ -18,3 +18,19 @@
     top: 0;
     right: 0;
 }
+.btn-close{
+    background-color: red;
+    color: white;
+    border: 1px solid white
+}
+.btn-save{
+    background-color: green;
+    color: white;
+    border: 1px solid white
+}
+.m-r-30{
+    margin-right: 30px ;
+}
+.m-l-30{
+    margin-left: 30px ;
+}

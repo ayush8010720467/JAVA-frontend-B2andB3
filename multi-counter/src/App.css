@@ -16,12 +16,23 @@
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-evenly;
+  display: block;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding-top: 100px;
+  text-align: left;
+}
+.App-header .singleCounter {
+  margin: 0 10px;
+  padding-right: 12px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.top-right{
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 .App-link {

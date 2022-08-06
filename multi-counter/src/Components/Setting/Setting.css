@@ -1,0 +1,18 @@
+.settingPage{
+    max-width: 700px;
+    border: 1px solid black;
+    padding: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.setting-body{
+    margin: 30px;
+}
+.setting-body input{
+    margin-left: 30px;
+}
+.setting-footer{
+    margin: 30px;
+}
